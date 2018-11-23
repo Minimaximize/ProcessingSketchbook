@@ -1,0 +1,5 @@
+# ignore libraries and modes folders
+libraries/
+modes/
+tools/
+templates/
