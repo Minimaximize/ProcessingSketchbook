@@ -1,0 +1,24 @@
+SensorName,Easting,Northing,Height,Type,InstallDate,Condition,Units,MeasurementFrequency,Owner,Link
+TP3D-HTE-BB-01,502577.9304,6961093.179,17.3427249,Prism,7/4/2017,Good,Metres,Hourly,Land Solution Australia,http://4dcontrol.landsolution.com.au/T4DWeb/#Chart__Index;Chart__View__5054
+TP3D-HTE-BB-02,502586.7345,6961083.068,15.87833099,Prism,7/4/2017,Destroyed,Metres,Hourly,Land Solution Australia,http://4dcontrol.landsolution.com.au/T4DWeb/#Chart__Index;Chart__View__5161
+TP3D-HTE-BB-02_2,502586.6989,6961083.109,17.5097554,Prism,7/4/2017,Good,Metres,Hourly,Land Solution Australia,http://4dcontrol.landsolution.com.au/T4DWeb/#Chart__Index;Chart__View__5212
+TP3D-HTE-BB-03,502595.5185,6961073.007,15.53773396,Prism,7/4/2017,Destroyed,Metres,Hourly,Land Solution Australia,http://4dcontrol.landsolution.com.au/T4DWeb/#Chart__Index;Chart__View__5056
+TP3D-HTE-BB-03_2,502595.5201,6961073,17.42361036,Prism,7/4/2017,Good,Metres,Hourly,Land Solution Australia,http://4dcontrol.landsolution.com.au/T4DWeb/#Chart__Index;Chart__View__5213
+TP3D-HTE-BB-04,502604.4878,6961062.745,16.48982647,Prism,7/4/2017,Destroyed,Metres,Hourly,Land Solution Australia,http://4dcontrol.landsolution.com.au/T4DWeb/#Chart__Index;Chart__View__5057
+TP3D-HTE-BB-04_2,502604.2706,6961062.994,17.94914833,Prism,7/4/2017,Good,Metres,Hourly,Land Solution Australia,http://4dcontrol.landsolution.com.au/T4DWeb/#Chart__Index;Chart__View__5214
+TP3D-HTE-BB-06,502566.6686,6961083.395,18.08338583,Prism,7/4/2017,Good,Metres,Hourly,Land Solution Australia,http://4dcontrol.landsolution.com.au/T4DWeb/#Chart__Index;Chart__View__5148
+TP3D-HTE-BT-01,502576.4568,6961091.735,24.82125,Prism,7/4/2017,Good,Metres,Hourly,Land Solution Australia,http://4dcontrol.landsolution.com.au/T4DWeb/#Chart__Index;Chart__View__5128
+TP3D-HTE-BT-02,502602.6804,6961061.682,24.80487,Prism,7/4/2017,Good,Metres,Hourly,Land Solution Australia,http://4dcontrol.landsolution.com.au/T4DWeb/#Chart__Index;Chart__View__5129
+TP3D-HTE-BT-03,502593.7186,6961071.716,24.77577,Prism,7/4/2017,Good,Metres,Hourly,Land Solution Australia,http://4dcontrol.landsolution.com.au/T4DWeb/#Chart__Index;Chart__View__5130
+TP3D-HTE-BT-04,502584.985,6961081.808,24.78165,Prism,7/4/2017,Good,Metres,Hourly,Land Solution Australia,http://4dcontrol.landsolution.com.au/T4DWeb/#Chart__Index;Chart__View__5131
+TP3D-HTE-BT-06,502572.9379,6961088.917,24.24668935,Prism,7/4/2017,Good,Metres,Hourly,Land Solution Australia,http://4dcontrol.landsolution.com.au/T4DWeb/#Chart__Index;Chart__View__5133
+TP3D-HTE-BT-07,502571.0264,6961087.236,24.24811168,Prism,7/4/2017,Good,Metres,Hourly,Land Solution Australia,http://4dcontrol.landsolution.com.au/T4DWeb/#Chart__Index;Chart__View__5149
+CMET-HTE-EW-04,502579.683,6961071.071,22.25,Crack Meter,7/4/2017,Good,Millimetres,Hourly,Land Solution Australia,http://4dcontrol.landsolution.com.au/T4DWeb/#Chart__Index;Chart__View__5102
+CMET-HTE-EW-05,502572.163,6961088.186,23.771,Crack Meter,7/4/2017,Good,Millimetres,Hourly,Land Solution Australia,http://4dcontrol.landsolution.com.au/T4DWeb/#Chart__Index;Chart__View__5077
+CMET-HTE-EW-06,502582.647,502582.647,22.25,Crack Meter,7/4/2017,Good,Millimetres,Hourly,Land Solution Australia,http://4dcontrol.landsolution.com.au/T4DWeb/#Chart__Index;Chart__View__5074
+CMET-HTE-IW-01,502595.011,6961055.057,22.5,Crack Meter,7/4/2017,Good,Millimetres,Hourly,Land Solution Australia,http://4dcontrol.landsolution.com.au/T4DWeb/#Chart__Index;Chart__View__5071
+CMET-HTE-IW-02,502582.113,6961076.7,17.94,Crack Meter,7/4/2017,Good,Millimetres,Hourly,Land Solution Australia,http://4dcontrol.landsolution.com.au/T4DWeb/#Chart__Index;Chart__View__5073
+CMET-HTE-IW-03,502588.196,6961063.313,17.84,Crack Meter,7/4/2017,Good,Millimetres,Hourly,Land Solution Australia,http://4dcontrol.landsolution.com.au/T4DWeb/#Chart__Index;Chart__View__5101
+TILT-HTE-EW-01_2,502582.011,6961068.407,20.64,Tilt Sensor,7/4/2017,Good,Degrees,Hourly,Land Solution Australia,http://4dcontrol.landsolution.com.au/T4DWeb/#Chart__Index;Chart__View__5204
+VPVS-HTE-SE-00,502591.764,6961057.854,15.91,Vibration Sensor,7/4/2017,Good,mm/s,Constantly (Uploaded Hourly),Land Solution Australia,http://4dcontrol.landsolution.com.au/T4DWeb/#Chart__Index;Chart__View__4988
+VPVS-HTE-SW-00,502570.709,502570.709,15.91,Vibration Sensor,7/4/2017,Good,mm/s,Constantly (Uploaded Hourly),Land Solution Australia,http://4dcontrol.landsolution.com.au/T4DWeb/#Chart__Index;Chart__View__4991

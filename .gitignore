@@ -1,4 +1,5 @@
 # ignore libraries and modes folders
+android/
 libraries/
 modes/
 tools/
